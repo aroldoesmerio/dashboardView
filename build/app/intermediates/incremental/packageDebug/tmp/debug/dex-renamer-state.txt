@@ -1,0 +1,4 @@
+#Sat Jun 06 07:06:16 BRT 2020
+base.0=/Users/aroldojunior/projects/fthursday/dashboard/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
